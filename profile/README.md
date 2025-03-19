@@ -8,4 +8,4 @@
 
 ### New Simplicity SDK and updated GSDK
 
-We've released a new SDK ([sdk_release](https://github.com/HOPE-MICROELECTRONICS/sdk_release).
+We've released a new SDK ([sdk_release](https://github.com/HOPE-MICROELECTRONICS/sdk_release)).
